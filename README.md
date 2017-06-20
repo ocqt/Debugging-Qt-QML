@@ -1,12 +1,13 @@
 # DebugDemo
-Code from OC Qt Meetup 6_14
+Code from OC Qt Meetup 6/14/2017
 
-We used this test application to demo and discuss different types of breakpoints (line number, condition, exceptions, etc.)
-Looked at what is availalbe in the watch window. Changed some variables during a run
-Reviewed the call stack window
-Difference between a crash running with/without the debugger
-Looked at the Debuger Log
-Talked about how to set up the IDE to step into Qt source
-Stepped into QML javascript
+We used this test application to demo and discuss:
+ - different types of breakpoints (line number, condition, exceptions, etc.)
+ - use the watch window
+ - manipulate changed variables during a run
+ - examine the call stack window
+ - demonstrate difference between crashing with/without the debugger
+ - examine the Debugger Log
+ - stepping through JavaScript code
 
-Also some general application design such as View Management, localization, and Reloading QML from disk.
+We also talked about how to set up the IDE to step into Qt source as well as some general application design topics such as View Management, Localization, and Reloading QML from files on disk.
