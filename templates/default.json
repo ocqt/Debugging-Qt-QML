@@ -1,0 +1,35 @@
+{
+
+
+  "Screens": [
+    {
+      "id": "UI_BLUE_SCREEN",
+      "filename": "blueScreen.qml",
+      "name": "Blue Screen",
+      "accessLevel": "0"
+    },
+    {
+      "id": "UI_RED_SCREEN",
+      "filename": "redScreen.qml",
+      "name": "Red Screen",
+      "accessLevel": "0"
+    },
+    {
+      "id": "UI_GREEN_SCREEN",
+      "filename": "greenScreen.qml",
+      "name": "Green Screen",
+      "accessLevel": "0"
+    }
+
+  ],
+
+  "Languages": [
+    "en_US",
+    "es_ES",
+    "fr_FR"
+  ]
+
+
+}
+
+

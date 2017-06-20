@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>templates/default.json</file>
+        <file>qml/main.qml</file>
+        <file>qml/blueScreen.qml</file>
+        <file>qml/greenScreen.qml</file>
+        <file>qml/redScreen.qml</file>
+        <file>qml/CustomButton.qml</file>
+    </qresource>
+</RCC>
